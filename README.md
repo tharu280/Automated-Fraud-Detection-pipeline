@@ -1,12 +1,12 @@
-# 🚨 Automated Fraud Detection Pipeline
+  # 🚨 Automated Fraud Detection Pipeline
 
 This project builds an end-to-end pipeline for detecting fraudulent credit card transactions using machine learning. It features model training with **Random Forest**, performance tracking using **MLflow**, an **automated email alert system**, and deployment via **FastAPI + Docker** for real-time inference.
 
 
 
 ![MLflow UI Screenshot](assets/mlflow_ui.png)
-![ec2 Screenshot](assets/ec2.png)
-![s3 Screenshot](assets/s3.png)
+![ec2 Screenshot](assets/mlflow_ec2.png)
+![s3 Screenshot](assets/mlflow_s3.png)
 
 
 ---
